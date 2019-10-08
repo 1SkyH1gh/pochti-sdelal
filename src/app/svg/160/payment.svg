@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <g id="PAYMENT" transform="translate(-35 -380)">
+    <g id="Group_1730" data-name="Group 1730" transform="translate(45 400)">
+      <g id="Ellipse_189" data-name="Ellipse 189" transform="translate(18.5 11.278)" fill="#fff" stroke="#d7d7d7" stroke-width="13">
+        <circle cx="51" cy="51" r="51" stroke="none"/>
+        <circle cx="51" cy="51" r="44.5" fill="none"/>
+      </g>
+      <g id="Group_1729" data-name="Group 1729" transform="translate(64.5 42.778)">
+        <line id="Line_104" data-name="Line 104" y1="40" transform="translate(5)" fill="none" stroke="#d7d7d7" stroke-linecap="round" stroke-width="10"/>
+        <line id="Line_105" data-name="Line 105" x1="10" fill="none" stroke="#d7d7d7" stroke-linecap="round" stroke-width="10"/>
+        <line id="Line_106" data-name="Line 106" x1="10" transform="translate(0 40)" fill="none" stroke="#d7d7d7" stroke-linecap="round" stroke-width="10"/>
+      </g>
+      <circle id="Ellipse_190" data-name="Ellipse 190" cx="3.5" cy="3.5" r="3.5" transform="translate(0 2.278)" fill="#d7d7d7"/>
+      <circle id="Ellipse_191" data-name="Ellipse 191" cx="7" cy="7" r="7" transform="translate(14 9.278)" fill="#d7d7d7"/>
+      <circle id="Ellipse_192" data-name="Ellipse 192" cx="4" cy="4" r="4" transform="translate(132 43.278)" fill="#d7d7d7"/>
+      <path id="Path_120" data-name="Path 120" d="M1,0,5.393,1.91,10,0a1,1,0,0,1,1,1L9.216,5.733,11,10a1,1,0,0,1-1,1L5.616,9.333,1,11a1,1,0,0,1-1-1L1.793,5.51,0,1A1,1,0,0,1,1,0Z" transform="translate(112.722 7.778) rotate(-45)" fill="#d7d7d7"/>
+      <path id="Path_121" data-name="Path 121" d="M.68,0,3.665,1.3,6.8,0a.68.68,0,0,1,.68.68L6.263,3.9,7.475,6.8a.68.68,0,0,1-.68.68L3.816,6.342.68,7.475A.68.68,0,0,1,0,6.8L1.218,3.744,0,.68A.68.68,0,0,1,.68,0Z" transform="translate(5.929 114.714) rotate(-45)" fill="#d7d7d7"/>
+      <rect id="Rectangle_245" data-name="Rectangle 245" width="94" height="18" transform="translate(21.5 94.907)" fill="#fff"/>
+      <line id="Line_107" data-name="Line 107" x2="110" transform="translate(15 95)" fill="none" stroke="#d7d7d7" stroke-linecap="round" stroke-width="7"/>
+    </g>
+    <rect id="Rectangle_359" data-name="Rectangle 359" width="160" height="160" transform="translate(35 380)" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="STEP_2" data-name="STEP 2" transform="translate(-722 -374)">
+    <g id="Group_1992" data-name="Group 1992" transform="translate(725 379)">
+      <g id="Ellipse_65" data-name="Ellipse 65" transform="translate(4.198)" fill="#e2e2e2" stroke="#fff" stroke-width="3">
+        <ellipse cx="9.848" cy="9.848" rx="9.848" ry="9.848" stroke="none"/>
+        <ellipse cx="9.848" cy="9.848" rx="8.348" ry="8.348" fill="none"/>
+      </g>
+      <g id="Ellipse_66" data-name="Ellipse 66" transform="translate(0 5.248)" fill="#fff" stroke="#fff" stroke-width="3">
+        <ellipse cx="7.224" cy="7.224" rx="7.224" ry="7.224" stroke="none"/>
+        <ellipse cx="7.224" cy="7.224" rx="5.724" ry="5.724" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_365" data-name="Rectangle 365" width="30" height="30" transform="translate(722 374)" fill="none"/>
+  </g>
+</svg>

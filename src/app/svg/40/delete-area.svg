@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="DELETE_EREA" data-name="DELETE EREA" transform="translate(-610 -310)">
+    <g id="Group_1748" data-name="Group 1748" transform="translate(615 314.681)">
+      <g id="Group_380" data-name="Group 380" transform="translate(0 0.319)">
+        <circle id="Ellipse_86" data-name="Ellipse 86" cx="15" cy="15" r="15" fill="#fff"/>
+      </g>
+      <g id="Group_171" data-name="Group 171" transform="translate(10.001 10.319)">
+        <g id="Group_169" data-name="Group 169" transform="translate(0)">
+          <line id="Line_2" data-name="Line 2" x1="5.929" y1="5.929" transform="translate(0)" fill="none" stroke="#ffa191" stroke-linecap="round" stroke-width="4"/>
+          <line id="Line_3" data-name="Line 3" y1="5.929" x2="5.929" transform="translate(4.071)" fill="none" stroke="#ffa191" stroke-linecap="round" stroke-width="4"/>
+        </g>
+        <g id="Group_170" data-name="Group 170" transform="translate(10 10) rotate(180)">
+          <line id="Line_2-2" data-name="Line 2" x1="5.929" y1="5.929" transform="translate(0 0)" fill="none" stroke="#ffa191" stroke-linecap="round" stroke-width="4"/>
+          <line id="Line_3-2" data-name="Line 3" y1="5.929" x2="5.929" transform="translate(4.071 0)" fill="none" stroke="#ffa191" stroke-linecap="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_343" data-name="Rectangle 343" width="40" height="40" transform="translate(610 310)" fill="none"/>
+  </g>
+</svg>

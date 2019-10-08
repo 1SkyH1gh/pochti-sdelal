@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Group_2022" data-name="Group 2022" transform="translate(19880 4496)">
+    <rect id="Rectangle_297" width="50" height="50" transform="translate(-19880 -4496)" fill="none"/>
+    <circle id="Ellipse_212" data-name="Ellipse 212" cx="20" cy="20" r="20" transform="translate(-19875 -4491)" fill="#97e3e5"/>
+    <g id="Group_2021" data-name="Group 2021" transform="translate(-12.749 6.672)">
+      <g id="Group_169" transform="translate(-19851 -4474.823) rotate(-45)">
+        <line id="Line_2" x1="8.2" y1="8.1" transform="translate(0 -4.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+        <line id="Line_3" y1="8.1" x2="8.2" transform="translate(8.2 -4.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+      </g>
+      <g id="Group_170" transform="translate(-19827.543 -4474.532) rotate(135)">
+        <line id="Line_2-2" x1="8.2" y1="8.2" transform="translate(0 4.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+        <line id="Line_3-2" y1="8.2" x2="8.2" transform="translate(8.2 4.6)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

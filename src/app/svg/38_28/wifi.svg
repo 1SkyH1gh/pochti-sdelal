@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="28" viewBox="0 0 38 28">
+    <g transform="translate(-670 -280)">
+        <g transform="translate(98.82 -2559.072)">
+            <g transform="translate(576.179 2842.455)">
+                <path d="M602,2858.76H601.6a2.6,2.6,0,0,1-2.55-2.151v-.2a2.079,2.079,0,0,1-1.53,1.742c-.2,0-.306.1-.51.1a2.127,2.127,0,0,1-1.632-.82,5.085,5.085,0,0,1-5.1,4.918,5.2,5.2,0,0,1-5.1-4.713,1.765,1.765,0,0,1-1.836.512,1.964,1.964,0,0,1-1.53-2.459c.1-.307.1-.512.2-.82a8.394,8.394,0,0,0-.51,1.742,2.6,2.6,0,0,1-2.958,2.049,2.531,2.531,0,0,1-2.04-2.971c.816-4.1,4.59-11.987,13.873-11.987,9.181,0,13.057,7.786,13.771,11.987A2.694,2.694,0,0,1,602,2858.76Z"
+                      transform="translate(-576.442 -2843.7)" fill="#f8f8f8"/>
+            </g>
+            <g transform="translate(0.055 -0.947)">
+                <path d="M583.63,2855.947s1.144-5.266,6.37-5.266,6.571,5.266,6.571,5.266" fill="none" stroke="#abecee"
+                      stroke-linecap="round" stroke-width="2"/>
+                <path d="M583.428,2862.494s1.728-10,11.055-10,11.05,10,11.05,10" transform="translate(-4.483 -6.547)"
+                      fill="none" stroke="#bbf2f3" stroke-linecap="round" stroke-width="2.5"/>
+                <circle cx="3" cy="3" r="3" transform="translate(587 2854)" fill="#97e3e5"/>
+            </g>
+        </g>
+        <rect width="38" height="28" transform="translate(670 280)" fill="none"/>
+    </g>
+</svg>

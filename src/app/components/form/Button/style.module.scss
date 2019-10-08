@@ -1,0 +1,39 @@
+.button {
+    padding: 0 54px;
+    height: 50px;
+
+    border-radius: 22px;
+
+    text-transform: uppercase;
+    color: #fff;
+    font-size: 18px;
+    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.15);
+    border: none;
+
+    cursor: pointer;
+
+    &:focus {
+        outline: none;
+        }
+    }
+
+    .button_main {
+        background-color: #20C4C8;
+        }
+
+    .button_yellow {
+        background-color: #FFD05E;
+        }
+
+    .button_pink {
+        background-color: #FFA191;
+        }
+
+    .button_full-width {
+        width: 100%;
+        text-align: center;
+        }
+
+    .button_small-padding {
+        padding: 0 10px;
+        }

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="DESABLED_MINI" data-name="DESABLED MINI" transform="translate(-140 -62)">
+    <g id="DSBLD_4x5" data-name="DSBLD 4x5" transform="translate(144 63)">
+      <g id="Ellipse_12" data-name="Ellipse 12" transform="translate(2.721 9.721)" fill="#fff" stroke="#707070" stroke-width="3">
+        <ellipse cx="6.64" cy="6.64" rx="6.64" ry="6.64" stroke="none"/>
+        <ellipse cx="6.64" cy="6.64" rx="5.14" ry="5.14" fill="none"/>
+      </g>
+      <circle id="Ellipse_24" data-name="Ellipse 24" cx="3.757" cy="3.757" r="3.757" transform="translate(5.281)" fill="#707070"/>
+      <line id="Line_5" data-name="Line 5" y1="5.506" x2="3.628" transform="translate(0 13.994)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+      <line id="Line_6" data-name="Line 6" x1="3.416" y1="6.353" transform="translate(10.084 6.147)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <g id="Group_1980" data-name="Group 1980" transform="translate(140 62)">
+      <rect id="Rectangle_294" data-name="Rectangle 294" width="25" height="25" fill="none" opacity="0.68"/>
+    </g>
+  </g>
+</svg>

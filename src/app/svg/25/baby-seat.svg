@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="BABY_SEAT" data-name="BABY SEAT" transform="translate(-320 -95)">
+    <path id="Path_172" data-name="Path 172" d="M-14475,2109h-.95l-7.513-10" transform="translate(14808.585 -1998.456)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+    <g id="Ellipse_208" data-name="Ellipse 208" transform="translate(330.586 108.544)" fill="#fff" stroke="#707070" stroke-width="1">
+      <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+      <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+    </g>
+    <g id="Group_1986" data-name="Group 1986">
+      <rect id="Rectangle_351" data-name="Rectangle 351" width="25" height="25" transform="translate(320 95)" fill="none"/>
+      <g id="Group_1987" data-name="Group 1987" transform="translate(-239 -637.456)">
+        <path id="Union_42" data-name="Union 42" d="M15040.519-1369.638a.617.617,0,0,1-.107-.1q-.076-.074-.149-.151l.039-.031a.852.852,0,0,1-.065-.332l-.234-1.693a2,2,0,0,1,1.769-2.173l4.633.616a1.894,1.894,0,0,1,1.561-.816,1.939,1.939,0,0,1,.536.076l.253-.786a2.167,2.167,0,0,1-.415-1.938l1.122-4.194a2.173,2.173,0,0,1,2.248-1.606,2.9,2.9,0,0,1,2.282-.419l.238.049a.786.786,0,0,1,.595.5,6.825,6.825,0,0,1,1.483,5.348c-.079.355-.15.722-.23,1.092a13.669,13.669,0,0,1-2.036,5.649c-1.384,1.829-3.605,2.751-6.795,2.83-.15,0-.31,0-.461,0C15043.966-1367.718,15041.909-1368.347,15040.519-1369.638Z" transform="translate(-14477.415 2120.719)" fill="#707070"/>
+        <g id="Ellipse_208-2" data-name="Ellipse 208" transform="translate(569.585 746)" fill="#fff" stroke="#707070" stroke-width="1">
+          <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+          <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="ARROW_DOWN" data-name="ARROW DOWN" transform="translate(-620 -335)">
+    <g id="Group_1749" data-name="Group 1749" transform="translate(627 354.038) rotate(-90)">
+      <g id="Group_260" data-name="Group 260" transform="translate(5.231) rotate(90)">
+        <line id="Line_2" data-name="Line 2" x1="5.231" y1="5.231" fill="none" stroke="#ffd05e" stroke-linecap="round" stroke-width="3"/>
+        <line id="Line_3" data-name="Line 3" y1="5.231" x2="5.231" transform="translate(5.231)" fill="none" stroke="#ffd05e" stroke-linecap="round" stroke-width="3"/>
+      </g>
+      <line id="Line_28" data-name="Line 28" x1="12.938" transform="translate(0.1 5.249)" fill="none" stroke="#ffd05e" stroke-linecap="round" stroke-width="3"/>
+    </g>
+    <rect id="Rectangle_362" data-name="Rectangle 362" width="25" height="25" transform="translate(620 335)" fill="none"/>
+  </g>
+</svg>

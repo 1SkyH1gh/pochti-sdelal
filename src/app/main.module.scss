@@ -1,0 +1,41 @@
+@import "reset.module";
+
+html {
+    height: 100%;
+    &.__no-scroll {
+        overflow: hidden;
+        //position: fixed;
+        //top: 0;
+        //left: 0;
+        }
+    }
+
+body {
+    background-color: #FBFBFB;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    }
+
+body, input, textarea {
+    font-family: 'Roboto', sans-serif;
+    }
+
+input {
+    background-color: transparent;
+    border: none;
+    }
+
+#root {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    }

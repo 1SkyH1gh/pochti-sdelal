@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="CLOCK_2" data-name="CLOCK 2" transform="translate(-720 -615)">
+    <g id="Group_1111" data-name="Group 1111" transform="translate(64.374 -115)">
+      <g id="Ellipse_59" data-name="Ellipse 59" transform="translate(659.626 734)" fill="#fff" stroke="#707070" stroke-width="2.5">
+        <circle cx="11" cy="11" r="11" stroke="none"/>
+        <circle cx="11" cy="11" r="9.75" fill="none"/>
+      </g>
+      <line id="Line_21" data-name="Line 21" y2="6.2" transform="translate(670.447 739.377)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_22" data-name="Line 22" y1="1.894" x2="3.335" transform="translate(667.126 745.606)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <rect id="Rectangle_293" data-name="Rectangle 293" width="30" height="30" transform="translate(720 615)" fill="none" opacity="0.68"/>
+  </g>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="Driver_Exp-ce" data-name="Driver Exp-ce" transform="translate(-267 -73)">
+    <g id="Group_1971" data-name="Group 1971" transform="translate(-0.192 3)">
+      <circle id="Ellipse_206" data-name="Ellipse 206" cx="4" cy="4" r="4" transform="translate(276 76)" fill="#707070"/>
+      <path id="Polygon_3" data-name="Polygon 3" d="M4.152,1.357a1,1,0,0,1,1.7,0l3.2,5.113A1,1,0,0,1,8.2,8H1.8A1,1,0,0,1,.956,6.47Z" transform="translate(285 83) rotate(180)" fill="#707070"/>
+      <path id="Path_165" data-name="Path 165" d="M-16919-3433.964a4.967,4.967,0,0,1,5-4.036,4.967,4.967,0,0,1,5,4.036" transform="translate(17194 3523.964)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_166" data-name="Path 166" d="M-16918.807-3433.964a8.129,8.129,0,0,1,2.086-4.327" transform="translate(17191 3523.964)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+      <path id="Path_167" data-name="Path 167" d="M-16917.109-3433.964a8.18,8.18,0,0,0-2.078-4.406" transform="translate(17205 3523.964)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Group_1972" data-name="Group 1972" transform="translate(267 73)">
+      <rect id="Rectangle_294" data-name="Rectangle 294" width="25" height="25" fill="none" opacity="0.68"/>
+    </g>
+  </g>
+</svg>

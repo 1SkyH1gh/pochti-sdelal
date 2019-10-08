@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="STEP_1_ACTIVE" data-name="STEP 1 ACTIVE" transform="translate(-678 -375)">
+    <g id="Group_1991" data-name="Group 1991" transform="translate(681 379)">
+      <path id="Union_14" data-name="Union 14" d="M20.246,17.133H0a5.267,5.267,0,0,1,5.261-5.261h9.724a5.268,5.268,0,0,1,5.261,5.26h0ZM5.009,5.187A5.125,5.125,0,0,1,10.072,0a5.125,5.125,0,0,1,5.062,5.187,5.125,5.125,0,0,1-5.062,5.188A5.126,5.126,0,0,1,5.009,5.187Z" transform="translate(0 0)" fill="#97e3e5"/>
+      <g id="Group_212" data-name="Group 212" transform="translate(8.841 7.059)">
+        <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(0 3.039)" fill="#fff" stroke="#97e3e5" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+          <rect width="15.194" height="12.155" rx="5" stroke="none"/>
+          <rect x="1.5" y="1.5" width="12.194" height="9.155" rx="3.5" fill="none"/>
+        </g>
+        <g id="Ellipse_26" data-name="Ellipse 26" transform="translate(5.065)" fill="#fff" stroke="#97e3e5" stroke-width="3">
+          <ellipse cx="2.532" cy="2.026" rx="2.532" ry="2.026" stroke="none"/>
+          <ellipse cx="2.532" cy="2.026" rx="1.032" ry="0.526" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_364" data-name="Rectangle 364" width="30" height="30" transform="translate(678 375)" fill="none"/>
+  </g>
+</svg>

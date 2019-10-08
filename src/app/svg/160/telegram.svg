@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="160" viewBox="0 0 160 160">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_389" data-name="Rectangle 389" width="110" height="110" transform="translate(35 200)" fill="none"/>
+        </clipPath>
+    </defs>
+    <g id="Group_2028" data-name="Group 2028" transform="translate(-259 -95)">
+        <g id="TELEGRAM" transform="translate(224 -105)">
+            <g id="Group_2025" data-name="Group 2025" transform="translate(43 227)">
+                <g id="Ellipse_213" data-name="Ellipse 213" transform="translate(0 4.265)" fill="#d7d7d7" stroke="#d7d7d7" stroke-width="1">
+                    <circle cx="8.529" cy="8.529" r="8.529" stroke="none"/>
+                    <circle cx="8.529" cy="8.529" r="8.029" fill="none"/>
+                </g>
+                <g id="Ellipse_214" data-name="Ellipse 214" transform="translate(119.412 89.559)" fill="#d7d7d7" stroke="#d7d7d7" stroke-width="1">
+                    <circle cx="6.397" cy="6.397" r="6.397" stroke="none"/>
+                    <circle cx="6.397" cy="6.397" r="5.897" fill="none"/>
+                </g>
+                <g id="Ellipse_215" data-name="Ellipse 215" transform="translate(136.471 76.765)" fill="#d7d7d7" stroke="#d7d7d7" stroke-width="1">
+                    <circle cx="4.265" cy="4.265" r="4.265" stroke="none"/>
+                    <circle cx="4.265" cy="4.265" r="3.765" fill="none"/>
+                </g>
+            </g>
+            <g id="Group_2027" data-name="Group 2027" transform="translate(10 25)" clip-path="url(#clip-path)">
+                <g id="Group_2026" data-name="Group 2026" transform="translate(35 207.113)">
+                    <path id="Path_202" data-name="Path 202" d="M1.943,56.27l25.346,9.46L37.1,97.281a2.984,2.984,0,0,0,4.739,1.427L55.967,87.19a4.215,4.215,0,0,1,5.138-.143l25.483,18.5a2.987,2.987,0,0,0,4.68-1.806l18.667-89.793a2.988,2.988,0,0,0-4-3.395L1.913,50.681a2.989,2.989,0,0,0,.03,5.589Zm33.576,4.424L85.055,30.185A.863.863,0,0,1,86.1,31.551l-40.882,38a8.475,8.475,0,0,0-2.626,5.071L41.2,84.943a1.28,1.28,0,0,1-2.5.181L33.34,66.305A4.988,4.988,0,0,1,35.519,60.694Z" transform="translate(0 -10.347)" fill="#d7d7d7"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

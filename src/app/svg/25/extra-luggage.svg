@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25">
+  <g id="EXTRA_LUGGAGE" data-name="EXTRA LUGGAGE" transform="translate(-320 -30)">
+    <g id="Group_46" data-name="Group 46" transform="translate(322.999 34)">
+      <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(0 1.778)" fill="#fff" stroke="#707070" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        <rect width="18.674" height="14.227" rx="5" stroke="none"/>
+        <rect x="1" y="1" width="16.674" height="12.227" rx="4" fill="none"/>
+      </g>
+      <g id="Ellipse_26" data-name="Ellipse 26" transform="translate(7.114)" fill="#fff" stroke="#707070" stroke-width="2">
+        <ellipse cx="2.223" cy="1.778" rx="2.223" ry="1.778" stroke="none"/>
+        <ellipse cx="2.223" cy="1.778" rx="1.223" ry="0.778" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_350" data-name="Rectangle 350" width="25" height="25" transform="translate(320 30)" fill="none" opacity="0.68"/>
+  </g>
+</svg>

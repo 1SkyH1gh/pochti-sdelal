@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="PASSENGER" transform="translate(-975 -515)">
+    <g id="Group_1946" data-name="Group 1946">
+      <rect id="Rectangle_294" data-name="Rectangle 294" width="30" height="30" transform="translate(975 515)" fill="none" opacity="0.68"/>
+    </g>
+    <g id="Group_1948" data-name="Group 1948" transform="translate(45)">
+      <path id="Path_151" data-name="Path 151" d="M-15353-2983s2.221-5,10-5,10,5,10,5" transform="translate(16288 3522)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="3"/>
+      <g id="PASSRS_4x4" data-name="PASSRS 4x4" transform="translate(940 520)">
+        <g id="Path_150" data-name="Path 150" fill="#707070">
+          <path d="M 5 8.5 C 3.070090055465698 8.5 1.5 6.929910182952881 1.5 5 C 1.5 3.070090055465698 3.070090055465698 1.5 5 1.5 C 6.929910182952881 1.5 8.5 3.070090055465698 8.5 5 C 8.5 6.929910182952881 6.929910182952881 8.5 5 8.5 Z" stroke="none"/>
+          <path d="M 5 3 C 3.897200107574463 3 3 3.897200107574463 3 5 C 3 6.102799892425537 3.897200107574463 7 5 7 C 6.102799892425537 7 7 6.102799892425537 7 5 C 7 3.897200107574463 6.102799892425537 3 5 3 M 5 0 C 7.761420249938965 0 10 2.238580226898193 10 5 C 10 7.761420249938965 7.761420249938965 10 5 10 C 2.238580226898193 10 0 7.761420249938965 0 5 C 0 2.238580226898193 2.238580226898193 0 5 0 Z" stroke="none" fill="#707070"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

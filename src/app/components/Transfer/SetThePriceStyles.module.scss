@@ -1,0 +1,16 @@
+.priceBlock{
+  width:100%;
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-content: center;
+  align-items:center;
+  .cont{
+    padding-top: 25px;
+    .alert{
+      color:#FFD05E;
+      font-size:15px;
+    }
+  }
+
+}
